@@ -1,0 +1,36 @@
+# =========================
+# Build / Output folders
+# =========================
+bin/
+obj/
+
+# =========================
+# User-specific files
+# =========================
+*.user
+*.userprefs
+*.suo
+*.csproj.user
+*.sln.user
+
+# =========================
+# VS Code editor settings
+# =========================
+.vscode/
+
+# =========================
+# Logs and temp files
+# =========================
+*.log
+*.tmp
+
+# =========================
+# OS generated files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Optional personal configs
+# =========================
+.editorconfig
